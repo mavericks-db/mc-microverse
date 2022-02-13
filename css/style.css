@@ -1,0 +1,18 @@
+html{
+    background-color: white;
+    font-family: Arial, sans-serif;
+
+}
+#nav-bar{
+    position:fixed;
+    text-align: left;
+    margin : 0px auto 0px auto;
+    min-width: 290px;
+    line-height: 1.9em;
+}
+#main-doc{
+    text-align: left;
+    margin : 0px 300px 0px;
+    max-width:1500px;
+
+}
